@@ -1,43 +1,54 @@
-# Gabriel Carneiro
+# Olá, eu sou Gabriel Carneiro 👋
 
-Senior Full-Stack Developer focused on building reliable, high-performance digital products from product discovery to production.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha experiência em programação por meio de cursos e projetos práticos.
 
-I work across the stack with a strong emphasis on maintainable architecture, user experience, web performance, SEO, analytics and delivery automation.
+Busco uma oportunidade de **estágio ou posição júnior em TI**, onde eu possa aprender com uma equipe, contribuir com dedicação e continuar evoluindo como desenvolvedor.
 
-## Core expertise
+## Sobre mim
 
-- Front-end architecture with React, Next.js and TypeScript
-- Responsive interfaces, design systems and accessibility
-- Node.js applications and API integrations
-- Technical SEO, analytics and conversion tracking
-- CI/CD, automated quality checks and Vercel deployments
-- Product-minded engineering and pragmatic technical decisions
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🐍 Estudando Python, lógica de programação e organização de código
+- 🌐 Praticando desenvolvimento web com HTML, CSS e JavaScript
+- 🔧 Aprendendo Git e GitHub para controle de versão
+- 🇧🇷 Português nativo e inglês fluente
+- 💼 Experiência anterior com marketing digital, sites e ferramentas online
 
-## Technology stack
+## Tecnologias e ferramentas em aprendizado
 
-`TypeScript` · `React` · `Next.js` · `Node.js` · `Tailwind CSS` · `Vite` · `GitHub Actions` · `Vercel`
+Python · Git · GitHub · JSON · HTML · CSS · JavaScript · React · Next.js
 
-## Selected work
+## Projetos
 
-### Sunline Films
+### 📚 Library Manager
 
-Institutional website for a solar-control film specialist, including responsive UI, structured SEO, Google Ads conversion measurement and automated delivery.
+Sistema de gerenciamento de biblioteca desenvolvido em Python. Permite cadastrar, listar e buscar livros, além de controlar empréstimos e devoluções com persistência de dados em JSON.
 
-[View production site](https://sunlinefilms.vercel.app)
+**Conceitos praticados:** funções, listas, dicionários, tratamento de erros, modularização, arquivos JSON, variáveis de ambiente e Git.
 
-### MegaFilm Películas
+> Projeto em desenvolvimento e preparação para publicação no GitHub.
 
-Product-oriented website for a film distributor and installer, built with Next.js and statically optimized routes for performance and discoverability.
+### 🌐 Projetos web
 
-[View production site](https://megafilm-site.vercel.app)
+Também desenvolvi projetos de sites responsivos enquanto praticava organização de interfaces, publicação de aplicações e tecnologias de desenvolvimento web.
 
-## Engineering principles
+- [Sunline Films](https://sunlinefilms.vercel.app)
+- [MegaFilm Películas](https://megafilm-site.vercel.app)
 
-- Solve the business problem before optimizing the abstraction.
-- Keep production observable, reproducible and easy to maintain.
-- Treat performance, accessibility and security as product requirements.
-- Automate repetitive quality checks and document operational knowledge.
+## Atualmente estudando
+
+- Fundamentos e boas práticas com Python
+- Estruturas de dados e lógica de programação
+- Modularização e persistência de dados
+- Desenvolvimento web
+- Git e GitHub
+- Inglês aplicado à tecnologia
+
+## Objetivo profissional
+
+Busco minha primeira oportunidade em desenvolvimento de software ou em uma área relacionada à tecnologia, especialmente como **estagiário ou desenvolvedor júnior**.
+
+Tenho interesse em ambientes onde possa receber orientação, participar de projetos reais e crescer junto com a equipe.
 
 ---
 
-Based in Brazil · Open to meaningful product and engineering conversations.
+📍 Brasil · 🌎 Inglês fluente · 💼 Aberto a oportunidades de estágio e vagas júnior
