@@ -1,35 +1,35 @@
 # Olá, eu sou Gabriel Carneiro 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha experiência em programação por meio de cursos e projetos práticos.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha experiência em programação por meio de estudos e projetos práticos.
 
 Busco uma oportunidade de **estágio ou posição júnior em TI**, onde eu possa aprender com uma equipe, contribuir com dedicação e continuar evoluindo como desenvolvedor.
 
 ## Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🐍 Estudando Python, lógica de programação e organização de código
+- 🐍 Estudando Python, lógica de programação e boas práticas
 - 🌐 Praticando desenvolvimento web com HTML, CSS e JavaScript
-- 🔧 Aprendendo Git e GitHub para controle de versão
+- 🔧 Aprendendo Git, GitHub, testes automatizados e organização de projetos
 - 🇧🇷 Português nativo e inglês fluente
 - 💼 Experiência anterior com marketing digital, sites e ferramentas online
 
-## Tecnologias e ferramentas em aprendizado
+## Tecnologias e ferramentas
 
-Python · Git · GitHub · JSON · HTML · CSS · JavaScript · React · Next.js
+Python · Git · GitHub · JSON · HTML · CSS · JavaScript
 
-## Projetos
+Também estou conhecendo React, Next.js, TypeScript e integração contínua por meio de projetos práticos.
 
-### 📚 Library Manager
+## Projetos em destaque
 
-Sistema de gerenciamento de biblioteca desenvolvido em Python. Permite cadastrar, listar e buscar livros, além de controlar empréstimos e devoluções com persistência de dados em JSON.
+### 📚 [Library Manager](https://github.com/gabrielcarneiro-dev/library-manager)
 
-**Conceitos praticados:** funções, listas, dicionários, tratamento de erros, modularização, arquivos JSON, variáveis de ambiente e Git.
+Aplicativo de terminal em Python para gerenciar livros, empréstimos e devoluções. Possui persistência em JSON, organização modular, tratamento de erros, testes automatizados e verificação pelo GitHub Actions.
 
-> Projeto em desenvolvimento e preparação para publicação no GitHub.
+**Conceitos praticados:** orientação a objetos, funções, validação de dados, arquivos JSON, testes com unittest, Git e GitHub.
 
 ### 🌐 Projetos web
 
-Também desenvolvi projetos de sites responsivos enquanto praticava organização de interfaces, publicação de aplicações e tecnologias de desenvolvimento web.
+Sites responsivos desenvolvidos durante a prática de interfaces, publicação de aplicações e tecnologias web:
 
 - [Sunline Films](https://sunlinefilms.vercel.app)
 - [MegaFilm Películas](https://megafilm-site.vercel.app)
@@ -38,7 +38,7 @@ Também desenvolvi projetos de sites responsivos enquanto praticava organizaçã
 
 - Fundamentos e boas práticas com Python
 - Estruturas de dados e lógica de programação
-- Modularização e persistência de dados
+- Testes automatizados e organização de código
 - Desenvolvimento web
 - Git e GitHub
 - Inglês aplicado à tecnologia
@@ -47,7 +47,7 @@ Também desenvolvi projetos de sites responsivos enquanto praticava organizaçã
 
 Busco minha primeira oportunidade em desenvolvimento de software ou em uma área relacionada à tecnologia, especialmente como **estagiário ou desenvolvedor júnior**.
 
-Tenho interesse em ambientes onde possa receber orientação, participar de projetos reais e crescer junto com a equipe.
+Tenho interesse em ambientes onde eu possa receber orientação, participar de projetos reais e crescer junto com a equipe.
 
 ---
 
